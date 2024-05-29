@@ -1,0 +1,38 @@
+.fruits{
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    color: blueviolet;
+}
+.cars{
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    color: mediumpurple;
+}
+#school {
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    color: aqua;
+}
+h2 {
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    color: aqua;
+    background-color: navajowhite;
+}
+form{
+ border: 2px solid red;
+ text-align: center;
+ padding: 15px;
+ margin: 15px;
+ color: aqua;
+ background-color: lightpink;
+ background-image: url("toyota.jpeg");
+}
